@@ -1,3 +1,3 @@
 # Keylogger
 
-A keylooger written in Python.
+A keylogger written in Python.
